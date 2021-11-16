@@ -2,7 +2,7 @@ function MyFooter(styles) {
     return (
         <footer className={styles.footer}>
             <a
-                href=""
+                href="https://github.com/jeffersonmatheusdev/NextJs-sklearn-API-consume"
                 target="_blank"
                 rel="noopener noreferrer"
                 className={styles.footerLink}
