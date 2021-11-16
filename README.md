@@ -14,9 +14,9 @@ https://github.com/jeffersonmatheusdev/sklearn-API-flower-categorizer
 ```
 Para visualizar o resultado em sua máquina, siga os seguintes passos:
 ```sh
-cd sklearn-API-flower-categorizer-main
-pip install -r requirements.txt
-python main.py
+cd NextJs-sklearn-API-consume-main
+yarn install
+yarn run dev
 ```
 
 ## Algorítimo já em funcionamento sendo renderizado pelo Front-end
