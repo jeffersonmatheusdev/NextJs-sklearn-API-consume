@@ -6,6 +6,9 @@
 
 - NextJS
 
+## Algorítimo já em funcionamento sendo renderizado pelo Front-end
+![gif](https://user-images.githubusercontent.com/32532873/142083113-04543058-2c79-40fa-aa8a-22f1b2256fa3.gif)
+
 Link dos repositórios utilizados no algorítimo:
 
 ```sh
@@ -19,8 +22,5 @@ yarn install
 yarn run dev
 *** Lembrando que é necessário estar rodando a API construída anteriormente em outro repositório (o link do mesmo se encontra na citação acima) pois será a responsável por disponibilizar o modelo para consulta.***
 ```
-
-## Algorítimo já em funcionamento sendo renderizado pelo Front-end
-![gif](https://user-images.githubusercontent.com/32532873/142083113-04543058-2c79-40fa-aa8a-22f1b2256fa3.gif)
 
 ##### As imagens utilizadas tanto para teste quanto para treino foram obtidas diretamente do google imagens, o intuito é meramente para fins de estudo, todos os direitos são reservados aos proprietários das imagens.
