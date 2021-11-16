@@ -17,6 +17,7 @@ Para visualizar o resultado em sua máquina, siga os seguintes passos:
 cd NextJs-sklearn-API-consume-main
 yarn install
 yarn run dev
+*** Lembrando que é necessário estar rodando a API construída anteriormente em outro repositório (o link do mesmo se encontra na citação acima) pois será a responsável por disponibilizar o modelo para consulta.***
 ```
 
 ## Algorítimo já em funcionamento sendo renderizado pelo Front-end
